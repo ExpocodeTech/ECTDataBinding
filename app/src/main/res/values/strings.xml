@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECTDataBinding</string>
+    <string name="name_txt">ExpoCode Tech</string>
+    <string name="descrip_txt">ExpoCode Tech es Asesoría y Formación online. Nuestro objetivo es
+        proveerte de la información actualizada en el desarrollo de aplicaciones Web y Mobile.
+    </string>
+    <string name="name_jex_txt">Javier Exposito</string>
+    <string name="descrip_jex_txt">Desarrollador con más de 10 años de experiencia en el desarrollo
+        de aplicaciones Empresariales, Web y Mobile y cuyo objetivo es promover el conocimiento
+        tecnológico a todos los que desean aprender algo nuevo cad día.
+    </string>
+</resources>
